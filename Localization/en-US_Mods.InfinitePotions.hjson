@@ -1,0 +1,19 @@
+Mods: {
+	InfinitePotions: {
+		Config: {
+			InfinitePotionCount: {
+				$parentVal: Infinite Potion Count
+				Description: How many potions in piggybank, safe, or inventory to have infinite buff duration.
+			}
+		}
+	}
+}
+
+Configs.InfiniteConfig.DisplayName: Infinite Config
+
+Config: {
+	InfinitePotionCount: {
+		$parentVal: Infinite Potion Count
+		Description: ""
+	}
+}

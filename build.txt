@@ -1,0 +1,3 @@
+displayName = Infinite Potions
+author = options
+version = 0.1
